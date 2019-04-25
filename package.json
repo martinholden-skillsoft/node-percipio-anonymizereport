@@ -13,6 +13,10 @@
     "changelog": "rimraf CHANGELOG.md && auto-changelog --template keepachangelog && git add . && git commit . -m changelog && git push",
     "changelog2": "rimraf CHANGELOG.md && auto-changelog --template keepachangelog"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/martinholden-skillsoft/node-percipio-anonymizereport.git"
+  },
   "author": "Martin Holden &lt;martin.holden@skillsoft.com&gt;",
   "license": "MIT",
   "dependencies": {
