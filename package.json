@@ -1,6 +1,6 @@
 {
   "name": "node-percipio-anonymizereport",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Anonymize Percipio Learning Activity Report Data",
   "main": "app.js",
   "scripts": {
